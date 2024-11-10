@@ -11,15 +11,11 @@ Welcome to my C# projects repository! This repository contains four separate pro
 
 ## Individual Project READMEs
 
-* [Calculator README](Calculator/README.md)
-* [Contact Book README](ContactBook/README.md)
-* [Unit Converter README](MeasurementConverter/README.md)
-* [Odd Or Even README](OddOrEven/README.md)
+* [Calculator README](https://github.com/Aashish792/C-Projects/blob/main/Calulator/README.md)
+* [Contact Book README](https://github.com/Aashish792/C-Projects/blob/main/ContactBook/README.md)
+* [Measurement Converter README](https://github.com/Aashish792/C-Projects/blob/main/MeasurementConverter/README.md)
+* [Odd Or Even README](https://github.com/Aashish792/C-Projects/blob/main/OddEven/README.md)
 
 ## Author
 
 Aashish K C
-
-## Date
-
-November 10, 2024
